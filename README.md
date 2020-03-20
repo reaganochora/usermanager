@@ -6,5 +6,5 @@ A Java web app for user management using Spring MVC, Spring Data , MySQL and JSP
 
 
 #References \
-I started learning spring MVC from www.websystique.com \
+I learned spring MVC from www.websystique.com \
 The theme I used is from https://adminlte.io/
