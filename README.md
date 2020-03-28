@@ -1,5 +1,5 @@
 # usermanager
-A Java web app for user management using Spring MVC, Spring Data , MySQL and JSP. You can use this as a user management module for your web app or as starter copde for your project.
+A Java web app for user management using Spring MVC, Spring Data , MySQL and JSP. You can use this as a user management module for your web app or as starter copde for your project.\
 DEMO: Login
 ![](usermanager/src/main/webapp/resources/img/login.JPG)
 
