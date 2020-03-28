@@ -10,3 +10,5 @@ DEMO: Login
 #References \
 I learned spring MVC from www.websystique.com \
 The theme I used is from https://adminlte.io/
+#Author
+Reagan Ochora is a former student of Northeastern Unversity, China and can be reached at drochora@yahoo.com
